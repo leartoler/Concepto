@@ -1,0 +1,2 @@
+# Concepto
+A philosophical game.
